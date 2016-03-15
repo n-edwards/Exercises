@@ -1,8 +1,8 @@
 Other scripting exercises.
 
 
-Adding up elements in a multidimensional array.
+    Adding up elements in a multidimensional array.
 
-Getting unique elements from an array.
+    Getting unique elements from an array.
 
-Reversing a string.
+    Reversing a string.
