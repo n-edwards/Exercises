@@ -1,0 +1,2 @@
+# Exercises
+other scripting exercises
