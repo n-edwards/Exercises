@@ -19,7 +19,7 @@ end
 
 words.uniq! # now removing duplicate words
 
-# Enumerables: groub_by creates a hash based on results of block
+# Enumerables: group_by creates a hash based on results of block
 anagramsHash = words.group_by { |word|
 word.chars.sort
 }
